@@ -14,7 +14,7 @@ Calculando alguma forma de resultado esperado:
 ## Exercício
 Faça um programa (`percorre`) que recebe:
 - o número de linhas da matriz quadrada (_N_), que tem de ser maior ou igual a 3;
-- as _N_ X _N_ entradas da matriz na forma de um inteiro entre -100 e 100;
+- as _N_ X _N_ entradas da matriz na forma de inteiros entre -100 e 100;
 
 e, em seguida, imprime:
 1. a soma dos elementos da 2a linha;
